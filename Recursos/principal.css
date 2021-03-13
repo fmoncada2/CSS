@@ -1,0 +1,27 @@
+#tabContenedor ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.botones {
+    background: rgb(245, 203, 245);
+    color: white;
+    padding: 7px;
+    margin: 10px;
+}
+
+#tabContenido div {
+    display: inline-block;
+    position: absolute;
+    width: 60%;
+    background: turquoise;
+}
+
+#tabContenido div:not(:nth-child(1)) {
+    display: none;
+}
+
+#tabContenido div:target {
+    display: inline-block;
+    background-color: yellow;
+}
