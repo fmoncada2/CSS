@@ -1,0 +1,19 @@
+#Redes {
+    background-color: palevioletred;
+    height: 5vh;
+}
+
+#Redes ol {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+#Redes ol li {
+    padding: 10px ;
+    margin-right:30px;
+    color: white;
+    border: 1px; 
+    border-color: black;
+}
