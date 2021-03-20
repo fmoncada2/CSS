@@ -23,5 +23,5 @@
 
 #tabContenido div:target {
     display: inline-block;
-    background-color: yellow;
+    background-color: rgb(241, 172, 43);
 }
