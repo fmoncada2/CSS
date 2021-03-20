@@ -15,7 +15,8 @@
     margin: 5px;
     background-color: rgb(221, 133, 147);
     color: white;
-    border: 1px white;
+    border: 5px; 
+    border-color: black;
 }
 
 #encabezado ol li:hover {
