@@ -1,7 +1,6 @@
 #encabezado {
     background-color: palevioletred;
-    height: 5vh;
-}
+    height: 7vh}
 
 #encabezado ol{
     display: flex;

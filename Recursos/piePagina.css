@@ -1,6 +1,6 @@
 #Redes {
     background-color: palevioletred;
-    height: 5vh;
+    height: 7vh;
 }
 
 #Redes ol {
@@ -15,5 +15,4 @@
     margin-right:30px;
     color: white;
     border: 1px; 
-    border-color: black;
 }
