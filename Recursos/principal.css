@@ -15,6 +15,7 @@
     position: absolute;
     width: 60%;
     background: turquoise;
+    margin-left: 4%;
 }
 
 #tabContenido div:not(:nth-child(1)) {
@@ -23,14 +24,15 @@
 
 #tabContenido div:target {
     display: inline-block;
-    background-color: rgb(241, 172, 43);
+    background-color: rgb(158, 127, 218);
 }
 
 #detalleInfo {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin-top: 5%;
+    margin-top: 8%;
+    margin-bottom: 5%;
 }
 
 #detalleInfo table {
@@ -45,3 +47,4 @@
 #detalleInfo table tr:nth-child(even){
     background-color: rgb(228, 146, 173);
 }
+

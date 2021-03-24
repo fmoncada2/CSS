@@ -10,6 +10,13 @@ body {
     padding: 1%;
 }
 
+main {
+    background-color: rgb(68, 144, 216); 
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 3%;
+}
+
 a {
     text-decoration: none;
 }
